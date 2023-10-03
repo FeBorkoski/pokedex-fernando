@@ -3,7 +3,7 @@
 <h2 align="center"> Projeto Pokédex</h2>
 <p align="center"> Meu primeiro projeto feito no evento MapaDev Week, desenvolvido pelo @devemdobro.🌱 <br>
 A ideia era criar uma Pokédex e nela poder selecionar e ver as informações de cada Pokémon. </p> <br>
-<img align="center" src="https://i.imgur.com/hCVIdBG.png" height="30" width="70%"> 
+<img align="center" src="https://i.imgur.com/hCVIdBG.png" width="50%"> 
 
 <h2 align="center"> Tecnologias utilizadas 💻</h2>
 <div align="center" style="display: inline_block">
