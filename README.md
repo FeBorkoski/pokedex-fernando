@@ -1,9 +1,9 @@
-<p align="center">
+![image](https://github.com/FeBorkoski/pokedex-fernando/assets/138631240/7716743f-4154-4be3-a8bb-0896ac29aeee)<p align="center">
  <img width="100px" src="https://cdn-icons-png.flaticon.com/512/188/188942.png" align="center"/>
 <h2 align="center"> Projeto Pokédex</h2>
 <p align="center"> Meu primeiro projeto feito no evento MapaDev Week, desenvolvido pelo @devemdobro.🌱 <br>
 A ideia era criar uma Pokédex e nela poder selecionar e ver as informações de cada Pokémon. </p> <br>
-<img align="center" src="https://imgur.com/a/6EzoTDs" width="100%"> 
+<img align="center" src="https://i.imgur.com/hCVIdBG.png" width="100%"> 
 
 <h2 align="center"> Tecnologias utilizadas 💻</h2>
 <div align="center" style="display: inline_block">
