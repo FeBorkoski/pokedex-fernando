@@ -1,13 +1,16 @@
-<p align="center">
- <img width="100px" src="https://cdn-icons-png.flaticon.com/512/188/188942.png" align="center"/>
-<h2 align="center"> Projeto Pokédex</h2>
-<p align="center"> Meu primeiro projeto feito no evento MapaDev Week, desenvolvido pelo @devemdobro.🌱 <br>
-A ideia era criar uma Pokédex e nela poder selecionar e ver as informações de cada Pokémon. </p> <br>
-<img align="center" src="https://i.imgur.com/hCVIdBG.png" width="70%"> 
+<div style="text-align: center;">
+  <p align="center">
+    <img width="100px" src="https://cdn-icons-png.flaticon.com/512/188/188942.png" align="center"/>
+    <h2>Projeto Pokédex</h2>
+    <p>Meu primeiro projeto feito no evento MapaDev Week, desenvolvido pelo @devemdobro.🌱 <br>
+    A ideia era criar uma Pokédex e nela poder selecionar e ver as informações de cada Pokémon. </p>
+    <img src="https://i.imgur.com/hCVIdBG.png" width="70%">
 
-<h2 align="center"> Tecnologias utilizadas 💻</h2>
-<div align="center" style="display: inline_block">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <h2>Tecnologias utilizadas 💻</h2>
+    <div style="display: inline_block;">
+      <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    </div>
+  </p>
 </div>
